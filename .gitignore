@@ -8,3 +8,6 @@ trailer/
 .env.*
 !.env.example
 secrets/
+
+.vercel
+.env*
